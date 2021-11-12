@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#F6A7AC</color>
+    <color name="purple_700">#ff939b</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="bg_splash">#ff939b</color>
+    <color name="main_text_2">#654ec0</color>
+    <color name="no_color">#00000000</color>
+
+    <color name="npc_entry_text_note">#f8f1ca</color>
+</resources>
